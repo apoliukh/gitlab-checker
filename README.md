@@ -70,7 +70,7 @@ sudo make reinstall
 ## System requirements
 
 * Unix like OS with a proper shell
-* Tools we use: basename ; mktemp ; seq ; awk ; tr ; printf ; curl ; wget ; jq ; git
+* Tools we use: basename ; mktemp ; tee ; tail ; seq ; awk ; tr ; printf ; curl ; wget ; jq ; git
 
 `sudo apt install git jq wget curl`
 
