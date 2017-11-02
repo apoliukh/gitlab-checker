@@ -1,6 +1,6 @@
 ## Gitlab Check
 
-[![Build Status](https://travis-ci.org/hyperia-sk/gitlab-check.svg?branch=master)](https://travis-ci.org/hyperia-sk/gitlab-check) [![codecov](https://codecov.io/gh/hyperia-sk/gitlab-check/branch/master/graph/badge.svg)](https://codecov.io/gh/hyperia-sk/gitlab-check)
+[![Build Status](https://travis-ci.org/hyperia-sk/gitlab-checker.svg?branch=master)](https://travis-ci.org/hyperia-sk/gitlab-checker) [![codecov](https://codecov.io/gh/hyperia-sk/gitlab-checker/branch/master/graph/badge.svg)](https://codecov.io/gh/hyperia-sk/gitlab-checker)
 
 > `gitlab-check` command line utility that uses the gitlab API to check your repository and base funcionality.
 
@@ -35,7 +35,7 @@ Prints this help.
 ## Installation
 
 ```bash
-git clone https://github.com/hyperia-sk/gitlab-check.git && cd gitlab-check
+git clone https://github.com/hyperia-sk/gitlab-checker.git && cd gitlab-checker
 ```
 
 Open up the cloned directory and run:
@@ -109,8 +109,8 @@ make test
 ## Licensing
 MIT see [LICENSE][] for the full license text.
 
-   [read this page]: https://github.com/hyperia-sk/gitlab-check/blob/master/CONTRIBUTING.md
-   [landing page]: https://github.com/hyperia-sk/gitlab-check
-   [LICENSE]: https://github.com/hyperia-sk/gitlab-check/blob/master/LICENSE
+   [read this page]: https://github.com/hyperia-sk/gitlab-checker/blob/master/CONTRIBUTING.md
+   [landing page]: https://github.com/hyperia-sk/gitlab-checker
+   [LICENSE]: https://github.com/hyperia-sk/gitlab-checker/blob/master/LICENSE
 
 
